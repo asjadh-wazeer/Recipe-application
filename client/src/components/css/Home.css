@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+.recipe__item__container {
+    background-color: cornsilk;
+    min-height: 320px;
+}
+
+.recipe__image {
+    width: 350px;
+    object-fit: contain;
+    margin: 0 20px;
+    padding: 6px 0;
+    border-radius: 14px;
+ }
+
+  .item__box {
+      width: 940px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      justify-items: center;
+      margin-bottom: 36px;
+      border : 1px solid #9c9c9c;
+      border-radius: 12px;
+  }
+
+  .home__section {
+    display: block; 
+  }
+
+  .recipe__text__container {
+    width: 54%;
+    display: block;
+    
+  }
+
+  .img__image__container {
+    width: 40%;
+  }
+  .recipe__blank__container {
+      width: 6%;
+  }
+ 
+  .delete__button__container {
+      float: right;
+     padding-top: 188px;
+  }

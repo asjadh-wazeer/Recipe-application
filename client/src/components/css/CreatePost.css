@@ -1,0 +1,33 @@
+.post__type {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 24px;
+    justify-content: space-between;
+    margin: 22px 0;
+    
+  }
+  .form__section {
+      margin: 0 124px;
+  }
+  
+  .post__typeInput {
+    height: 32px;
+    padding: 10px;
+    border: none;
+    width: 50%;
+    background-color: rgb(230, 238, 238);
+    border : 1px solid #131921;
+  }
+  .create__post__button {
+      padding: 12px 18px;
+      background-color: rgb(5, 56, 26);
+      font-weight: 700;
+      color: white;
+      border-radius: 12px;
+      margin-top: 32px;
+  }
+  .create__post__container {
+      
+      text-align: center;
+  }
